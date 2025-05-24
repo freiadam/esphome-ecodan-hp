@@ -1,3 +1,7 @@
+esphome:
+  name: ecodanpro
+  friendly_name: ecodanpro1
+
 substitutions:
   name: ecodan-heatpump
   friendlyName: Ecodan heatpump

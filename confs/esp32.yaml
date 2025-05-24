@@ -1,3 +1,7 @@
+esphome:
+  name: ecodanpro
+  friendly_name: ecodanpro1
+
 esp32:
   board: lolin_s2_mini
   framework:
