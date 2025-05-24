@@ -38,13 +38,13 @@ api:
 #  wifi: !include confs/wifi.yaml
 
 external_components:
-  - source: github://gekkekoe/esphome-ecodan-hp@main
+  - source: github://freiadam/esphome-ecodan-hp@main
     components: [ ecodan ]
     refresh: always
 
 packages:
   remote_package:
-    url: https://github.com/gekkekoe/esphome-ecodan-hp/
+    url: https://github.com/freiadam/esphome-ecodan-hp/
     ref: main
     refresh: always
     files: [ 
